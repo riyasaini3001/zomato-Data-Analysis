@@ -1,5 +1,6 @@
 # Zomato Data Analysis & Dashboard Project
 
+
 ## 📌 Project Overview
 This project analyzes Zomato restaurant dataset using Python and creates an interactive dashboard in Power BI.
 
@@ -28,7 +29,7 @@ This project analyzes Zomato restaurant dataset using Python and creates an inte
 - Cleaned dataset
 - EDA notebook
 - Power BI dashboard file
-- Dashboard screenshots
+- Dashboard screenshots(zomato-Dashboard.png)
 
 ## 🚀 How to Run
 1. Open notebook in Jupyter
